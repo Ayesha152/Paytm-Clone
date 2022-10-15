@@ -5,7 +5,7 @@
 ## Skills acquired 👨‍💻
 - How to make a responsive website using tailwind CSS.
 - How to design resposive cards using tailwind CSS.
-- Learned abput many tailwind classes to set the margin, padding and border.
+- Learned about many tailwind classes, to set the margin, padding and border.
 - Learned how to use transition property in tailwind. 
 
 ## Time taken to complete the project ⏲️
