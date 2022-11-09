@@ -1,4 +1,6 @@
-# Paytm Clone &nbsp; ![badge](https://img.shields.io/badge/-HTML-brightgreen) ![badge](https://img.shields.io/badge/-Tailwind%20CSS-blue) 
+# Paytm Clone &nbsp; ![badge](https://img.shields.io/badge/-HTML-brightgreen) ![badge](https://img.shields.io/badge/-Tailwind%20CSS-blue)
+
+DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
 
 [![](https://img.shields.io/badge/Live-Link-blue)](https://paytmclone-site.netlify.app/)
 
